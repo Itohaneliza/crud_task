@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "student_course_management",
+=======
+  "name": "library_management_system",
+>>>>>>> 0d822ef75e1e7e78de20dad7c413482482d14e94
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +11,10 @@
     "serve": "node index.js",
     "dev": "nodemon index.js"
   },
+<<<<<<< HEAD
   "keywords": [],
+=======
+>>>>>>> 0d822ef75e1e7e78de20dad7c413482482d14e94
   "author": "",
   "license": "ISC",
   "description": "",
